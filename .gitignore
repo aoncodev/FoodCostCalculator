@@ -1,0 +1,14 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
